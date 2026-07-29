@@ -32,7 +32,7 @@
 - Source display panel for transparency
 - Example questions and knowledge base statistics
 
-git clone https://github.com/YOUR_USERNAME/finbot-rag-chatbot.git
+git clone https://github.com/tom32bit/FinBot-RAG-Chatbot.git
 pip install -r requirements.txt
 ## 🚀 Quick Start
 
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 1. **Clone the repository**
 	```sh
-	git clone https://github.com/YOUR_USERNAME/finbot-rag-chatbot.git
+	git clone https://github.com/tom32bit/FinBot-RAG-Chatbot.git
 	cd finbot-rag-chatbot
 	```
 
